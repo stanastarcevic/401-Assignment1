@@ -1,0 +1,30 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: white;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+header h1 {
+	text-align: center;
+}
+article h2, article p {
+	padding: 0 0 0 8px;
+}
+
+article p {
+	padding: 2px 0 2px 8px;
+}
+article img {
+	border: solid 10px white;
+	margin: 0 auto;
+	display: block;
+}
+.special {
+	color: #f3d400;
+	padding: 0px 0 0 8px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 200;
+}
